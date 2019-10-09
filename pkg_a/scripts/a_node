@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+from pkg_a import a_node
+
+if __name__ == '__main__':
+    a_node.main()
